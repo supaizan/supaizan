@@ -1,7 +1,7 @@
-<h1>👋 &nbsp;Oi, eu sou Suzanna — Desenvolvedora Protheus & Integrações</h1>
+<h1>👋 &nbsp;Oi, eu sou a Suzanna - Desenvolvedora Protheus & Integrações</h1>
 
 <p align="center">
-<a href="mailto:seuemail@email.com"><img src="https://img.shields.io/badge/-Fale%20Comigo-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:suzanna@vegtectecnologia.com.br"><img src="https://img.shields.io/badge/-Fale%20Comigo-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/supaizan"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 </p>
 
@@ -86,7 +86,7 @@ Nada aqui é "teórico demais" — foco sempre em código aplicável.
 
 Se quiser trocar ideia, colaborar ou discutir algum projeto:
 
-📩 Email: supaizan@gmail.com
+📩 Email: suzanna@vegtectecnologia.com.br
 💼 LinkedIn: https://www.linkedin.com/in/supaizan
 
 ---
