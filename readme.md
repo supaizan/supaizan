@@ -86,8 +86,8 @@ Nada aqui é "teórico demais" — foco sempre em código aplicável.
 
 Se quiser trocar ideia, colaborar ou discutir algum projeto:
 
-📩 Email: seuemail@email.com  
-💼 LinkedIn: https://www.linkedin.com/in/seulinkedin  
+📩 Email: supaizan@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/supaizan
 
 ---
 
