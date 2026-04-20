@@ -7,7 +7,7 @@
 
 ---
 
-<h2>👨🏻‍💻 &nbsp;Sobre mim</h2>
+<h2>👩‍💻 &nbsp;Sobre mim</h2>
 
 Sou desenvolvedora com mais de 10 anos de experiência em sistemas ERP, com foco em **TOTVS Protheus, ADVPL e integrações complexas**.
 
