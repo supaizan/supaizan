@@ -37,27 +37,36 @@ Nada aqui é "teórico demais" — foco sempre em código aplicável.
 
 ---
 
-<h2>🛠 &nbsp;Stack principal</h2>
+<h2> 🛠 &nbsp;Tecnologias e Ferramentas</h2>
 
-<h3>💻 &nbsp;ERP & Backend</h3>
+<h3>💻 &nbsp;Front-end:</h3>
+
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
+
+<h3>⚙️ &nbsp;Back-end & Integrações:</h3>
 
 ![ADVPL](https://img.shields.io/badge/-ADVPL-333333?style=flat)
 ![TLPP](https://img.shields.io/badge/-TLPP-333333?style=flat)
 ![Protheus](https://img.shields.io/badge/-Protheus-333333?style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Fastify](https://img.shields.io/badge/-Fastify-333333?style=flat&logo=fastify)
 ![SOAP](https://img.shields.io/badge/-SOAP-333333?style=flat)
 ![REST](https://img.shields.io/badge/-REST-333333?style=flat)
 
-<h3>🗄 &nbsp;Banco de Dados</h3>
+<h3>🗄 &nbsp;Banco de Dados:</h3>
 
 ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-333333?style=flat&logo=microsoft-sql-server)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
-<h3>⚙️ &nbsp;Outros</h3>
+<h3>🧰 &nbsp;Outros:</h3>
 
 ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp)
 ![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=dotnet)
-![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
 ![IIS](https://img.shields.io/badge/-IIS-333333?style=flat)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
